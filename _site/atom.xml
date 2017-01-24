@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Utkarsh Bansal</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-01-24T12:21:28+05:30</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Utkarsh Bansal</name>
+   <email>contact@utkarshbansal.me</email>
+ </author>
+
+ 
+ <entry>
+   <title>Hey</title>
+   <link href="http://localhost:4000/blog/hey/"/>
+   <updated>2017-01-24T00:00:00+05:30</updated>
+   <id>http://localhost:4000/blog/hey</id>
+   <content type="html">&lt;p&gt;Blogging isn’t my thing, and I never imagined setting up a blog using Jekyll. Recently starting the new blog with Jekyll and loving it .&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

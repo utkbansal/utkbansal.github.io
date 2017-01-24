@@ -1,0 +1,43 @@
+# Dependencies
+highlighter:      rouge
+
+
+gems:
+  - jekyll-paginate
+  - jekyll-feed
+
+
+# Permalinks
+permalink:              /blog/:categories/:title/
+# relative_permalinks: true
+
+# Setup
+title:            Utkarsh Bansal
+tagline:          'Python & iOS Developer | Open Source Enthusiast'
+url:              http://utkarshbansal.me
+baseurl:          /
+
+author:
+  name:           'Utkarsh Bansal'
+  url:            https://twitter.com/rrmerugu
+  email:          'contact@utkarshbansal.me'
+  github:         'https://github.com/utkbansal'
+  stackoverflow:  'http://stackoverflow.com/users/4364572/utkbansal?tab=profile'
+  angel:          'https://angel.co/utkarsh-bansal'
+
+
+
+collections:
+  - projects
+  - blog
+
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/rsquarelabs/rsquarelabs
+
+excerpt_separator: "<!--/excerpt-->"
