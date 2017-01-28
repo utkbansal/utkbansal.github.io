@@ -107,6 +107,7 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-size: 0.9rem;
   /*line-height: 1.8em;*/
 }
 
@@ -336,11 +337,17 @@ tbody tr:nth-child(odd) th {
 }
 
 /* Blog post or page title */
-.page-title,
-.post-title,
-.post-title a {
+.page-title
+{
   color: #3b95ed;
-font-size: 1.6rem;
+  font-size: 1.6rem;
+}
+
+.post-title,
+.post-title a 
+{
+  color: #3b95ed;
+  font-size: 1.3rem;
 }
 .page-title,
 .post-title {
