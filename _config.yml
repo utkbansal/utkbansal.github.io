@@ -46,3 +46,6 @@ excerpt_separator: "<!--/excerpt-->"
 
 disqus:
   shortname: blog-y13i3sewqx
+
+  # Google services
+google_analytics: UA-91025573-1
