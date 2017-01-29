@@ -6,21 +6,22 @@ gems:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 
 # Permalinks
-permalink:              /blog/:categories/:title/
+permalink:              blog/:categories/:title/
 # relative_permalinks: true
 
 # Setup
 title:            Utkarsh Bansal
 tagline:          'Python & iOS Developer | Open Source Enthusiast'
 url:              http://utkarshbansal.me
-baseurl:          /
+baseurl:          '/'
 
 author:
   name:           'Utkarsh Bansal'
-  url:            https://twitter.com/rrmerugu
+  url:            'http://utkarshbansal.me'
   email:          'contact@utkarshbansal.me'
   github:         'https://github.com/utkbansal'
   stackoverflow:  'http://stackoverflow.com/users/4364572/utkbansal?tab=profile'
@@ -39,7 +40,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/rsquarelabs/rsquarelabs
+  repo:           https://github.com/utkbansal/utkbansal.github.io
 
 excerpt_separator: "<!--/excerpt-->"
 
