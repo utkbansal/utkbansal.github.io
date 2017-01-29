@@ -41,3 +41,6 @@ github:
   repo:           https://github.com/rsquarelabs/rsquarelabs
 
 excerpt_separator: "<!--/excerpt-->"
+
+disqus:
+  shortname: blog-y13i3sewqx

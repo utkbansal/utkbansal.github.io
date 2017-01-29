@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Utkarsh Bansal</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2017-01-28T10:55:01+05:30</updated>
- <id>http://localhost:4000</id>
+ <link href="http://utkarshbansal.me/atom.xml" rel="self"/>
+ <link href="http://utkarshbansal.me/"/>
+ <updated>2017-01-29T11:28:40+05:30</updated>
+ <id>http://utkarshbansal.me</id>
  <author>
    <name>Utkarsh Bansal</name>
    <email>contact@utkarshbansal.me</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Hello World</title>
-   <link href="http://localhost:4000/blog/Hello-World/"/>
+   <link href="http://utkarshbansal.me/blog/Hello-World/"/>
    <updated>2017-01-26T00:00:00+05:30</updated>
-   <id>http://localhost:4000/blog/Hello World</id>
+   <id>http://utkarshbansal.me/blog/Hello World</id>
    <content type="html">&lt;p&gt;So the year is 2017 and AI has already taken over the world… 
 It controlls the evolution of the human species and chooses the leader of the free world among others. No joke, I’m
 serious, think about it. An AI that builds our Tinder feed is basically deciding who we have our kids with and hence 
