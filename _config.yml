@@ -17,7 +17,6 @@ permalink:              blog/:categories/:title/
 title:            Utkarsh Bansal
 tagline:          'Python & iOS Developer | Open Source Enthusiast'
 url:              http://utkarshbansal.me
-baseurl:          '/'
 
 author:
   name:           'Utkarsh Bansal'
